@@ -7,7 +7,8 @@ body {
 h1{
     color: antiquewhite;
     font-family: montserrat;
-    margin: 4% 20%;
+    padding: 10% 20%;
+    margin-top: 0; 
 }
 
 .square {
@@ -20,4 +21,16 @@ h1{
 
 #colorShow{
     text-transform: capitalize;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+#topBar{
+    color: antiquewhite;
+    font: 1em montserrat;
+}
+
+#headingBar{
+    width: 100%;
+    color: white;
 }
